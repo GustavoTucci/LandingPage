@@ -325,7 +325,7 @@ footer{
     position: fixed;
     bottom: 2vh;       
     left: 50%;          
-    transform: translateX(-50%); /* Ajuste fino para centralizar o próprio corpo do botão */
+    transform: translateX(-50%); 
     z-index: 1000;
     display: flex;
     align-items: center;
