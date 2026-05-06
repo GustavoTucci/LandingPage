@@ -314,26 +314,12 @@ footer{
 }
 
 .rights{
-    padding: 5vh;
+    padding: 5vh 5vw 10vh 5vw;
     border-top: solid 1px gray;
+    display: flex;
+    justify-content: center;
 }
 
-/* .botaofixo{
-    background: linear-gradient(to right, #5047E2, #928FFD); 
-    color: white;
-    font-size: 1rem;
-    font-weight: bold;
-    padding: 2vh 8vw 2vh 8vw;
-    border: none;
-    border-radius: 60px; 
-    text-align: center;
-    margin-bottom: 2vh;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    display: flex;
-    width: 50vw;
-    align-items: center;
-    position: fixed;
-}   */
 
 .botaofixo {
     position: fixed;
